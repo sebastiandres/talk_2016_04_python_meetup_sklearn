@@ -1,5 +1,6 @@
 ## Charla
 * **Título**: ¿Cómo aplicar Machine Learning? ¡Con la libraría sklearn!
+* **Evento**: Charla Meetup Python.
 * **Resumen**: ¿Como usar sklearn? ¡Acá lo veremos!
 * **Fecha**: 27 abril 2016
 * **Lugar**: UTFSM, Chile.
