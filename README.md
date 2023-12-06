@@ -5,7 +5,7 @@
 * **Lugar**: UTFSM, Chile.
 * **Contexto**: ¡Mi segunda charla meetup!
 * **Visualización**:
-  * [Video](https://www.youtube.com/watch?v=mmR2MAqsfVg)
-  * [Slides interactivas en binder](https://mybinder.org/v2/gh/sebastiandres/talk_2016_03_python_meetup_pandas/main?filepath=meetup.ipynb)
-  * [Slides semi-interactivas en html](https://sebastiandres.github.io/talk_2016_03_python_meetup_pandas/slides.html)
-  * [Slides no interactivas en pdf](https://github.com/sebastiandres/talk_2016_03_python_meetup_pandas/raw/main/slides.pdf)
+  * [Video](https://www.youtube.com/watch?v=IenniV-KM6A)
+  * [Slides interactivas en binder](https://mybinder.org/v2/gh/sebastiandres/talk_2016_04_python_meetup_sklearn/main?filepath=meetup.ipynb)
+  * [Slides semi-interactivas en html](https://sebastiandres.github.io/talk_2016_04_python_meetup_sklearn/slides.html)
+  * [Slides no interactivas en pdf](https://github.com/sebastiandres/talk_2016_04_python_meetup_sklearn/raw/main/slides.pdf)
